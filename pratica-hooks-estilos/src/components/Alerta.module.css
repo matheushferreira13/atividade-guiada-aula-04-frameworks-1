@@ -1,0 +1,13 @@
+.alertaCard {
+  padding: 1rem;
+  border-radius: 8px;
+  color: white;
+  max-width: 300px;
+  margin-top: 1rem;
+}
+.sucesso {
+  background-color: #16A34A;
+}
+.erro {
+  background-color: #DC2626;
+}
